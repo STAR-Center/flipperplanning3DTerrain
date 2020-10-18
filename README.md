@@ -10,6 +10,5 @@ This is our project folder for ***Configuration-space Flipper Planning on 3D Ter
 ![](https://jarrome.github.io/files/flipperPath.gif?raw=true)
 
 
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://jarrome.github.io/files/ssrr2020.mp4?raw=true">
-</video>
+
+![](https://jarrome.github.io/files/ssrr2020.gif?raw=true)
