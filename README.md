@@ -6,6 +6,8 @@
 
 This is our project folder for ***Configuration-space Flipper Planning on 3D Terrain***.
 
+## Demonstration:
+
 **Please see the real robot experiment in [Video](https://jarrome.github.io/files/ssrr2020.mp4).**
 
 #### The planned path:
