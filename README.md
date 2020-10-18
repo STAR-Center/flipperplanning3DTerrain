@@ -8,7 +8,8 @@ This is our project folder for ***Configuration-space Flipper Planning on 3D Ter
 
 **Please see the real robot experiment in [Video](https://jarrome.github.io/files/ssrr2020.mp4).**
 
-The path we planned:
+#### The planned path:
+
 ![](https://jarrome.github.io/files/flipperPath.gif?raw=true)
 
 
