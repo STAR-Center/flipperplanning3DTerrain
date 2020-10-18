@@ -10,5 +10,4 @@ This is our project folder for ***Configuration-space Flipper Planning on 3D Ter
 ![](https://jarrome.github.io/files/flipperPath.gif?raw=true)
 
 
-
-![](https://jarrome.github.io/files/ssrr2020.gif?raw=true)
+Please see the real robot experiment in [Video](https://jarrome.github.io/files/ssrr2020.mp4).
