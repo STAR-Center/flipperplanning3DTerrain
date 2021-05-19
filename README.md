@@ -17,4 +17,4 @@ This is our project folder for ***Configuration-space Flipper Planning on 3D Ter
 
 
 #### code
-All of the sources I used is in folder ./25dflipper . 
+* All of the sources I used is in folder ./25dflipper . 
